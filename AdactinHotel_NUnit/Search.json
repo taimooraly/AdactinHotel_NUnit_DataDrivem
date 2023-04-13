@@ -1,0 +1,14 @@
+[
+  {
+    "username": "AmirImam",
+    "password": "AmirImam",
+    "location": "Sydney",
+    "hotels": "Hotel Creek",
+    "room_type": "Double",
+    "room_nos": "2 - Two",
+    "datepick_in": "08/04/2023",
+    "datepick_out": "09/04/2023",
+    "adult_room": "2 - Two",
+    "child_room": "2 - Two"
+  }
+]
